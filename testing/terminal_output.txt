@@ -1,0 +1,21 @@
+File          Skenario      Ground Truth              Prediksi                  Akurasi   Waktu(s)
+----------------------------------------------------------------------------------------------------
+doc_01.jpg    1 - Ideal     INFORMATIKA ITTS          INFORMATIKA ITTS           100.0%   0.84
+doc_02.jpg    1 - Ideal     VISI KOMPUTER 2026        VISI KOMPUTER 2026         100.0%   0.21
+doc_03.jpg    1 - Ideal     LAPORAN PROYEK UAS        LAPORAN PROYEK UAS         100.0%   0.20
+doc_04.jpg    1 - Ideal     SISTEM DETEKSI TEKS       SISTEM DETEKSI TEKS        100.0%   0.20
+struk_01.jpg  2 - Bayangan  TOTAL BELANJA RP150000    TOTAL BELANJA RP150000     100.0%   0.21
+struk_02.jpg  2 - Bayangan  TERIMA KASIH              TERIMA K                    80.0%   0.17
+struk_03.jpg  2 - Bayangan  STRUK PEMBAYARAN TOKO     TRUK PEMBAYARAN TOKC        92.7%   0.24
+struk_04.jpg  2 - Bayangan  KEMBALIAN RP5000          KEMBALIAN                   72.0%   0.17
+papan_01.jpg  3 - Miring    OCR SYSTEM TEST           ocr SYSTEM Test             60.0%   0.24
+papan_02.jpg  3 - Miring    DILARANG PARKIR           DILARANG PARKIR            100.0%   0.18
+papan_03.jpg  3 - Miring    PINTU DARURAT             pint y DARURAT              59.3%   0.19
+papan_04.jpg  3 - Miring    AREA PARKIR KHUSUS        AREA PARKIR KHUSUS         100.0%   0.21
+----------------------------------------------------------------------------------------------------
+Rata-rata akurasi keseluruhan: 88.66%
+Rata-rata akurasi 1 - Ideal: 100.00%
+Rata-rata akurasi 2 - Bayangan: 86.17%
+Rata-rata akurasi 3 - Miring: 79.81%
+
+Hasil lengkap disimpan ke hasil_pengujian.csv
